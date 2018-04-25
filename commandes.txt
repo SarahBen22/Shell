@@ -1,0 +1,18 @@
+Dans mes documents j'ai créé un dossier qui se nomme jaime_le_shell:
+mkdir jaime_le_shell
+cd jaime_le_shell
+touch test1 (touch pour créer un fichier)
+ls
+mkdir test2
+mkdir test3
+mkdir test4
+touch test5
+mkdir test6
+ls
+mkdir le_shell_cest_trop_cool
+mv test1 le shell_cest_trop_cool (mv pour déplacer)
+ls -l
+mv test5 le shell_cest_trop_cool
+cp -R test2/ le_shell_cest_trop_cool (cp -R pour copier)
+cp -R test6/ le_shell_cest_trop_cool
+ls -l
